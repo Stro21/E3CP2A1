@@ -8,3 +8,24 @@ and open the template in the editor.
     Author     : eduar
 */
 
+.foto {
+    border-radius: 50%;
+    width: 110px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centrado{
+  text-align: center;
+}
+
+.nombre{
+  color: green;
+}
+
+
+.container {
+  background-color: gainsboro;
+}
